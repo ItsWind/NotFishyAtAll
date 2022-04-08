@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3i61Gjwy6T85r8RahhvZwjBSEbxhcxiFs3nekgR6CUkerC0r9sJ/v3P6a8ZWylK2JT8iS/E+sgBm9c/nBA1jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stric\\source\\repos\\NotFishyAtAll\\NotFishyAtAll\\NotFishyAtAll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stric\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\stric\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

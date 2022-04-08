@@ -1,0 +1,16 @@
+C:\Users\stric\Desktop\NotFishyAtAll\Debug\net6.0-windows\NotFishyAtAll.exe
+C:\Users\stric\Desktop\NotFishyAtAll\Debug\net6.0-windows\NotFishyAtAll.deps.json
+C:\Users\stric\Desktop\NotFishyAtAll\Debug\net6.0-windows\NotFishyAtAll.runtimeconfig.json
+C:\Users\stric\Desktop\NotFishyAtAll\Debug\net6.0-windows\NotFishyAtAll.dll
+C:\Users\stric\Desktop\NotFishyAtAll\Debug\net6.0-windows\NotFishyAtAll.pdb
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.csproj.AssemblyReference.cache
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.csproj.ResolveComReference.cache
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.AssemblyInfoInputs.cache
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.AssemblyInfo.cs
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.csproj.CoreCompileInputs.cache
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.dll
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\refint\NotFishyAtAll.dll
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.pdb
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\NotFishyAtAll.genruntimeconfig.cache
+C:\Users\stric\source\repos\NotFishyAtAll\NotFishyAtAll\obj\Debug\net6.0-windows\ref\NotFishyAtAll.dll
